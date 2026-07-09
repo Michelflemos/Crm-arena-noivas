@@ -3,7 +3,7 @@ import pandas as pd
 import sqlite3
 import re
 
-DB_NAME = "leads_arena_noivas.db"
+DB_NAME = "leads_arena_noivas_v2.db"
 
 STATUS_OPCOES = [
     "Não contatado", 
